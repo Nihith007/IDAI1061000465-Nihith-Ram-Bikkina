@@ -1,6 +1,2 @@
-customtkinter
-Pillow
-matplotlib
-numpy
-pandas
-scikit-learn
+streamlit
+plotly

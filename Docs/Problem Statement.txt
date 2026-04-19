@@ -1,0 +1,136 @@
+================================================================
+MINDFUL WORK — SMART STRESS RELIEF POD
+Problem Statement
+FutureForward Wellness | Design Thinking for Innovation
+================================================================
+
+================================================================
+CORE PROBLEM STATEMENT
+================================================================
+
+"How might we design a fast, private, and personalised stress
+ relief system that employees can access during the workday —
+ without disrupting their workflow, requiring them to speak to
+ anyone, or making them feel judged for needing a break?"
+
+================================================================
+BACKGROUND
+================================================================
+
+Workplace burnout is at an all-time high globally. Research shows
+that over 60% of employees experience daily stressors that directly
+affect their performance, motivation, and mental health.
+
+Our user research (10 participants, April 2026) revealed:
+  - 80% of employees feel stressed every single day at work
+  - 40% push through stress without addressing it at all
+  - Only 20% use any form of active stress management (e.g. meditation)
+  - 50% cite judgment from colleagues as a barrier to using wellness tools
+  - 70% cite time pressure as the main reason they skip breaks
+
+Despite this, 90% of participants said they would welcome a private,
+easy-to-use wellness space at work — and 90% were open to AI-driven
+personalisation to make the experience more effective.
+
+================================================================
+THE GAP
+================================================================
+
+Current solutions are either:
+  1. Too passive  — coffee, music, scrolling social media
+  2. Too slow     — hour-long gym sessions, weekend yoga
+  3. Too public   — kitchen conversations, group wellness programs
+  4. Too generic  — standard wellness apps with no personalisation
+
+There is a critical gap for something that is:
+  → Fast (5–20 min)
+  → Private (no social pressure)
+  → Personalised (adapts to the individual's current state)
+  → Accessible (available at work, during the workday)
+  → Effective (uses proven relaxation methods: music, aroma, light, breathing)
+
+================================================================
+PROBLEM REFRAME — POINT OF VIEW STATEMENTS
+================================================================
+
+POV 1 (Riya — IT Professional):
+  Riya is a stressed software engineer who needs a private,
+  10-minute reset during back-to-back meetings because she
+  experiences daily headaches and cannot mentally recover between
+  tasks in an open-plan office.
+
+POV 2 (Aarav — Marketing Manager):
+  Aarav is a high-pressure manager who needs a discreet
+  pre-presentation calming tool because he cannot afford to
+  show vulnerability to his team but desperately needs to
+  manage his anxiety before high-stakes moments.
+
+POV 3 (Priya — Intern):
+  Priya is a new intern who needs an anonymous, non-social
+  wellness tool because she is experiencing adjustment stress
+  and feels she cannot admit it to anyone at her new workplace.
+
+POV 4 (Sameer — HR Executive):
+  Sameer is a wellness advocate who needs a private pod with
+  no digital tracking because he supports employee wellbeing
+  professionally but is deeply concerned about his own data
+  privacy.
+
+POV 5 (Divya — Finance Manager):
+  Divya is a senior leader who needs a midday recovery session
+  comparable to her weekend yoga practice because 20 years of
+  chronic workplace stress is beginning to take a physical toll.
+
+================================================================
+ROOT CAUSES OF THE PROBLEM
+================================================================
+
+1. ENVIRONMENT:
+   Open-plan offices offer no private, quiet spaces for recovery.
+   Noise, interruptions, and social observation prevent relaxation.
+
+2. CULTURE:
+   Taking breaks is perceived as laziness or low performance.
+   Stress is seen as a sign of weakness, especially in senior roles.
+
+3. TIME:
+   Employees feel they cannot afford 30-60 min wellness breaks.
+   Short, accessible micro-breaks (5–15 min) are not normalised.
+
+4. TOOLS:
+   Generic wellness apps don't personalise to current stress state.
+   No single tool combines sensory environment + AI + scheduling.
+
+5. AWARENESS:
+   Many employees don't recognise their own stress signals early.
+   There is no system that proactively suggests "you need a break now."
+
+================================================================
+DESIGN CHALLENGE
+================================================================
+
+The Mindful Work Smart Stress Relief Pod must:
+
+  ✔ Be accessible in under 60 seconds (from app open to pod start)
+  ✔ Require no prior wellness knowledge or setup
+  ✔ Personalise the experience to the user's current stress level
+  ✔ Offer sensory features that work together (sound + light + aroma)
+  ✔ Keep all data private and on-device by default
+  ✔ Allow scheduling so employees build a regular recovery habit
+  ✔ Enable post-session reflection to build self-awareness
+  ✔ Track progress over time so improvement is visible and motivating
+
+================================================================
+SUCCESS METRICS (How we know the solution works)
+================================================================
+
+1. Stress score reduction of at least 2 points (on 1-10 scale) per session
+2. At least 80% of test users say they feel "calmer" after a session
+3. At least 70% of users return for a second session within the week
+4. Average session booking time is under 30 seconds
+5. Zero users report feeling judged or observed during the experience
+6. App can be used without any instructions by a first-time user
+
+================================================================
+END OF PROBLEM STATEMENT
+================================================================

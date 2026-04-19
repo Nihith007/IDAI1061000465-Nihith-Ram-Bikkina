@@ -68,4 +68,5 @@ Employees need a quick and personalized way to reduce stress during work without
 AI + Smart Pod = Instant personalized stress relief in offices
 
 ## Links
-* Link for video demonstration: https://chroma-wallow-34441780.figma.site/ 
+* Link for video demonstration: https://drive.google.com/file/d/1iW2ElB29pq-maAsiEAP0PV1Tc3DINSu1/view?usp=sharing 
+* Link for Figma: https://chroma-wallow-34441780.figma.site/ 

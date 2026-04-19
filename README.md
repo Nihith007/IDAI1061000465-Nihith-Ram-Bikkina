@@ -1,7 +1,7 @@
 # Candidate Name – Nihith Ram Bikkina
 # Candidate Registration Number – 1000465
 # CRS Name: Artificial Intelligence
-# Course Name – Data Mining
+# Course Name – Design Thinking for Innovation
 # School Name – Birla Open Minds International School, Kollur
 # Summative Assessment – Mindful Work: Smart Stress Relief System
 

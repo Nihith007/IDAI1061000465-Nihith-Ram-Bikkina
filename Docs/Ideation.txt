@@ -1,0 +1,222 @@
+================================================================
+MINDFUL WORK — SMART STRESS RELIEF POD
+Ideation & Feature Conceptualisation
+FutureForward Wellness | Design Thinking for Innovation
+================================================================
+
+Stage:          Ideate
+Date:           April 2026
+Method:         Brainstorming, mind mapping, dot voting, prioritisation
+Tools Used:     Miro (mind maps), sticky notes, affinity mapping
+
+================================================================
+SECTION 1 — IDEATION APPROACH
+================================================================
+
+Following the Empathize & Define stage, we conducted a structured
+ideation session using the "How Might We" (HMW) framework derived
+from our problem statement and empathy maps.
+
+We generated 40+ ideas across 6 HMW categories, then prioritised
+them using dot voting (impact vs. feasibility matrix).
+
+================================================================
+SECTION 2 — "HOW MIGHT WE" QUESTIONS
+================================================================
+
+HMW 1: How might we help employees decompress in under 15 minutes?
+HMW 2: How might we remove the social stigma of needing a break?
+HMW 3: How might we personalise the pod experience automatically?
+HMW 4: How might we help employees build a consistent break habit?
+HMW 5: How might we make the post-session feeling visible and trackable?
+HMW 6: How might we accommodate different stress types and preferences?
+
+================================================================
+SECTION 3 — ALL IDEAS GENERATED (Grouped by HMW)
+================================================================
+
+HMW 1: Help employees decompress in under 15 minutes
+  IDEA 01 — Quick 5-minute guided breathing animation on entry
+  IDEA 02 — Auto-configure pod from wearable data (no manual input)
+  IDEA 03 — One-tap "Emergency Calm" preset for high-stress moments
+  IDEA 04 — Micro-session mode: 3-minute eyes-closed audio guide
+  IDEA 05 — Session timer countdown with visual breathing circle
+  IDEA 06 — Walk-in availability display so no wasted time searching
+
+HMW 2: Remove social stigma of needing a break
+  IDEA 07 — Fully opaque pod with no external visibility
+  IDEA 08 — Booking system that uses codes not names on the door
+  IDEA 09 — Company-wide "Pod Culture" onboarding communication
+  IDEA 10 — Neutral pod exterior — looks like a phone booth, not a "mental health pod"
+  IDEA 11 — Peer progress sharing (optional, anonymous leaderboard)
+  IDEA 12 — Manager dashboard showing team wellness trends (no individual data)
+
+HMW 3: Personalise the pod experience automatically
+  IDEA 13 — AI reads wearable heart rate to set session intensity ★ SELECTED
+  IDEA 14 — Voice tone analysis on entry to detect stress level ★ SELECTED
+  IDEA 15 — Learning engine: adapts to user preferences over time ★ SELECTED
+  IDEA 16 — Mood check-in (slider) that auto-selects music + aroma
+  IDEA 17 — Calendar integration — intensifies settings before big meetings
+  IDEA 18 — Time-of-day aware presets (morning energise vs. afternoon calm)
+  IDEA 19 — Seasonal scent rotation aligned with time of year
+
+HMW 4: Help employees build a consistent break habit
+  IDEA 20 — Bookable time slots in the app ★ SELECTED (Pod Scheduler)
+  IDEA 21 — Daily reminder notification based on stress trend
+  IDEA 22 — Streak counter to reward consistent pod usage ★ INCLUDED
+  IDEA 23 — Calendar block suggestion: "Protect 2:00 PM for your pod"
+  IDEA 24 — Manager-endorsed scheduling — company formally supports it
+  IDEA 25 — Waitlist feature for popular time slots
+
+HMW 5: Make post-session feeling visible and trackable
+  IDEA 26 — Before/after stress rating slider ★ SELECTED (Journal)
+  IDEA 27 — Weekly stress trend chart ★ SELECTED (Dashboard)
+  IDEA 28 — Session history log with notes ★ SELECTED (Journal)
+  IDEA 29 — Share session summary with HR (optional, opt-in)
+  IDEA 30 — AI-generated weekly insight card ("Your best day was Wednesday")
+  IDEA 31 — Export data to PDF for personal health records
+  IDEA 32 — Gamified badges for consistency ★ INCLUDED
+
+HMW 6: Accommodate different stress types and preferences
+  IDEA 33 — Multiple breathing technique options (4-7-8, box, etc.) ★ SELECTED
+  IDEA 34 — Full control sliders for light, aroma, sound ★ SELECTED
+  IDEA 35 — Preset library with named modes (Forest Refresh, Deep Unwind) ★ SELECTED
+  IDEA 36 — Kid-friendly mode for working parent stress
+  IDEA 37 — Accessibility mode (visual stress scale for neurodivergent users)
+  IDEA 38 — Noise-cancelling optional (for users who prefer silence)
+  IDEA 39 — Temperature control slider (warm/cool air)
+  IDEA 40 — Colour therapy cycle option for creative professionals ★ INCLUDED
+
+================================================================
+SECTION 4 — PRIORITISATION MATRIX
+================================================================
+
+Ideas evaluated on:
+  IMPACT   — How significantly does it solve the core problem?
+  EFFORT   — How feasible is it to prototype and implement?
+
+HIGH IMPACT + LOW EFFORT (Do First — included in prototype):
+  ✔ MoodSync AI recommendation engine
+  ✔ Guided breathing exercises (Breathe with Me)
+  ✔ Pod Scheduler with time slots
+  ✔ Before/after stress journal
+  ✔ Stress tracking dashboard with chart
+  ✔ Preset library (4 named modes)
+  ✔ Streak counter and badges
+
+HIGH IMPACT + HIGH EFFORT (Consider for v2):
+  → Calendar integration with Google Calendar
+  → Real wearable device integration (Fitbit, Apple Watch)
+  → Company-wide manager wellness dashboard
+  → Fully physical pod hardware
+
+LOW IMPACT + LOW EFFORT (Nice to have):
+  → Seasonal scent rotation
+  → Export data to PDF
+  → Waitlist feature
+
+LOW IMPACT + HIGH EFFORT (Deprioritised):
+  → Kid-friendly mode
+  → Anonymous leaderboard
+  → Time-of-day aware presets (partially covered by AI)
+
+================================================================
+SECTION 5 — 5 COMPULSORY FEATURES (Final Concept)
+================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+FEATURE 1: MOODSYNC AI
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+What:    AI-driven pod configuration based on current stress level
+How:     Combines mood survey (1-10), wearable HR/HRV data, and
+         voice tone analysis to compute a stress score, then
+         automatically selects music, lighting, aroma, and session
+         duration from a personalised preference model
+Why:     Research showed users don't know what they need in the
+         moment and experience decision fatigue when stressed
+Personas: Riya, Aarav, Neha, Rohan (high tech comfort, want AI)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+FEATURE 2: BREATHE WITH ME
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+What:    Guided micro-meditation with animated breathing circle
+How:     User selects breathing technique (4-7-8 or box breathing),
+         follows animated visual guide, completes 4 rounds in under
+         3 minutes, then prompted to log their mood change
+Why:     Only 20% of users actively meditate — a guided tool
+         teaches the skill while providing immediate relief
+Personas: Priya, Divya, Meera, Aarav (open to guided techniques)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+FEATURE 3: POD SCHEDULER
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+What:    Advance booking system for pod time slots
+How:     Displays available and booked time slots for each pod,
+         allows user to select slot and duration (15/30/45 min),
+         confirms booking and sends a reminder notification
+Why:     70% cited time pressure as the main barrier — scheduling
+         makes breaks feel legitimate and protected
+Personas: Aarav, Karan, Sameer, Arjun (need structured routine)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+FEATURE 4: POST-SESSION JOURNAL
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+What:    Reflective post-session log with stress ratings and notes
+How:     User rates stress before and after session (0-100 scale),
+         gives a star rating, selects a mood tag, and writes a free-
+         form reflection note — all stored privately on-device
+Why:     Self-awareness is critical for sustainable stress management;
+         journaling also closes the feedback loop for the AI model
+Personas: Meera, Rohan, Priya, Divya (already journal at home)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+FEATURE 5: STRESS TRACKING DASHBOARD
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+What:    Visual progress tracker showing stress trends over time
+How:     Line chart shows stress scores before/after each session,
+         stat cards show total sessions, minutes, streak, and avg
+         stress reduction; badge system rewards consistent use;
+         AI insight card generated from session history
+Why:     Data-driven users need to see evidence that the pod works;
+         visible improvement motivates continued use
+Personas: Neha, Arjun, Sameer, Riya (data-motivated, need proof)
+
+================================================================
+SECTION 6 — ADDITIONAL INNOVATIVE FEATURES (Beyond compulsory)
+================================================================
+
+FEATURE 6: Preset Library (4 named mood modes)
+  - Sunset Calm: warm light + lo-fi + lavender
+  - Forest Refresh: cool light + nature sounds + eucalyptus
+  - Focus Flow: colour therapy + binaural beats + citrus
+  - Deep Unwind: warm light + classical + sandalwood
+  Why: Users have different stress types — presets remove choice
+  fatigue while still offering personalisation.
+
+FEATURE 7: AI Insight Card
+  After 3+ sessions, the app analyses which preset + settings
+  combination produced the best stress reduction for that user
+  and displays a personalised insight on the home screen.
+
+FEATURE 8: Streak & Badge System
+  - First Session 🌱, 5-Day Streak 🔥, Zen Master 🧘, 10 Sessions ⭐
+  Gamification encourages habitual use without being intrusive.
+
+FEATURE 9: Counselor Nudge
+  If a user records stress scores ≥ 8.0 for 3+ consecutive sessions,
+  the app gently suggests speaking with an HR representative or
+  wellness counselor — a safety net for severe burnout cases.
+
+================================================================
+SECTION 7 — IDEATION TOOLS USED
+================================================================
+
+  - Miro: Digital sticky notes, affinity mapping, mind maps
+  - FigJam: Dot voting and prioritisation matrix
+  - Google Forms: Survey distribution and response collection
+  - Notion: Team notes and idea documentation
+  - Pen & paper: Initial quick sketches and flow diagrams
+
+================================================================
+END OF IDEATION DOCUMENT
+================================================================

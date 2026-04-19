@@ -1,0 +1,90 @@
+Q1: How often do you feel stressed at work?
+- Daily:                8 / 10
+- A few times a week:   2 / 10
+- Rarely:               0 / 10
+
+Q2: What are the top causes of your stress at work?
+(Multiple selections allowed)
+- Too many meetings / back-to-back calls:   7 / 10
+- Tight deadlines and workload:             9 / 10
+- Unclear expectations from management:     5 / 10
+- Difficult colleagues or team conflicts:   4 / 10
+- Fear of failure or performance pressure:  6 / 10
+
+ Q3: How do you currently manage stress at work?
+ (Multiple selections allowed)
+- Take a short walk:                 6 / 10
+- Listen to music:                   5 / 10
+- Drink coffee / tea:                8 / 10
+- Nothing — I push through it:       4 / 10
+- Speak to a friend or colleague:    3 / 10
+- Meditate or breathe deeply:        2 / 10
+
+Q4: Have you ever used a dedicated relaxation or wellness space at work?
+- Yes, regularly:           1 / 10
+- Yes, once or twice:       3 / 10
+- No, but I would like to:  5 / 10
+- No, not interested:       1 / 10
+
+Q5: How long would you ideally spend in a stress-relief pod session?
+- 5 minutes (quick reset):     2 / 10
+- 10–15 minutes (short break): 5 / 10
+- 20–30 minutes (deep rest):   3 / 10
+
+Q6: Which sensory features would help you relax the most?
+- Calming music or sounds:          8 / 10
+- Dim / mood-based lighting:        7 / 10
+- Pleasant aroma (lavender, etc.):  6 / 10
+- Guided breathing exercises:       5 / 10
+- Comfortable reclining chair:      9 / 10
+- Temperature control:              4 / 10
+
+Q7: How comfortable are you with an app tracking your stress levels?
+- Very comfortable — happy to share data:        3 / 10
+- Comfortable — as long as data stays private:   5 / 10
+- Unsure:                                        1 / 10
+- Uncomfortable — prefer no tracking:            1 / 10
+
+Q7: How comfortable are you with an app tracking your stress levels?
+- Very comfortable — happy to share data:        3 / 10
+- Comfortable — as long as data stays private:   5 / 10
+- Unsure:                                        1 / 10
+- Uncomfortable — prefer no tracking:            1 / 10
+
+Q9: Would you use an AI-powered app to recommend personalised pod settings?
+- Yes, definitely:            7 / 10
+- Maybe, if it's easy to use: 2 / 10
+- No:                         1 / 10
+
+Q10: What would stop you from using a workplace stress relief pod?
+(Multiple selections allowed)
+- Feeling judged by colleagues:          5 / 10
+- Not having enough time during work:    7 / 10
+- Not knowing how to use the app:        3 / 10
+- Lack of privacy in the pod:            6 / 10
+- Nothing — I'd definitely use it:       2 / 10
+
+
+
+
+SUMMARY OF KEY FINDINGS
+================================================================
+ 
+1. 80% of participants feel stressed every single day at work.
+2. Deadlines and heavy workloads are the primary stress triggers (90%).
+3. Most people use passive coping methods — there is a clear gap for active solutions.
+4. 90% are open to using a dedicated wellness space.
+5. 10–15 minute sessions are the preferred duration.
+6. Comfortable seating + calming music are the most desired features.
+7. 80% accept stress tracking if data stays private (on-device).
+8. Afternoons are peak stress hours — best time for pod bookings.
+9. 90% are willing to use AI-personalised recommendations.
+10. Privacy and time are the key design barriers to address.
+ 
+These findings directly shaped all 5 compulsory prototype features:
+  → MoodSync AI        (insights from Q7, Q9)
+  → Breathe with Me    (insight from Q6)
+  → Pod Scheduler      (insight from Q8, Q10)
+  → Post-Session Journal (insight from Q3)
+  → Stress Tracking Dashboard (insight from Q1, Q7)
+ 

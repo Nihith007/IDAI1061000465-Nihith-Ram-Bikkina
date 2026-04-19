@@ -53,22 +53,19 @@ Employees need a quick and personalized way to reduce stress during work without
 * Session runs
 * User gives feedback
 * AI improves recommendations
-🤖 AI Personalization
-Learns from past sessions
-Uses feedback + stress data
-Improves suggestions over time
-🎨 Design
+## 🤖 AI Personalization
+* Learns from past sessions
+* Uses feedback + stress data
+* Improves suggestions over time
+## 🎨 Design
 
-Colors: Soft blue, light green, white
-Font: Poppins + Roboto
-Style: Minimal, calming, easy to use
+* Colors: Soft blue, light green, white
+* Font: Poppins + Roboto
+* Style: Minimal, calming, easy to use
 
-💡 Key Idea
+## 💡 Key Idea
 
 AI + Smart Pod = Instant personalized stress relief in offices
 
-📦 Structure
-Mindful-Work/
-├── app_design
-├── assets
-├── README.md
+## Links
+* Link for video demonstration: https://www.figma.com/make/LXp0wECZLh86d3w1ccVoou/Mindful-Work-App-Prototype?fullscreen=1&t=wDDU4bpFPqx3mvXB-1 

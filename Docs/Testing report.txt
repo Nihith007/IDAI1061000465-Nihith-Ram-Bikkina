@@ -1,0 +1,303 @@
+Participants tested:
+  T1 — Riya,  28, IT Professional
+  T2 — Aarav, 35, Marketing Manager
+  T3 — Priya, 24, Intern
+  T4 — Neha,  31, Data Analyst
+  T5 — Karan, 27, Software Developer
+  T6 — Meera, 29, Content Strategist
+
+================================================================
+SECTION 1 — TESTING OBJECTIVES
+================================================================
+
+  1. Evaluate whether the prototype effectively reduces perceived stress
+  2. Identify usability issues across all 9 screens
+  3. Assess the quality and relevance of AI recommendations
+  4. Measure user satisfaction with the 5 compulsory features
+  5. Identify areas for improvement before final submission
+
+================================================================
+SECTION 2 — TESTING METHOD
+================================================================
+
+FORMAT:
+  Each participant was given 20 minutes with the prototype.
+  The session included:
+    a) Brief orientation (3 min) — told what the app does, not how
+    b) Task-based exploration (12 min) — 5 assigned tasks
+    c) Rating and feedback (5 min) — survey + verbal debrief
+
+TASKS GIVEN TO EACH PARTICIPANT:
+  Task 1: Log in as yourself (or create a new profile)
+  Task 2: Complete a stress check and get an AI recommendation
+  Task 3: Explore the Pod Setup screen and start a session
+  Task 4: Use the Breathe with Me feature for one full round
+  Task 5: Complete the post-session journal and view your progress
+
+METRICS COLLECTED:
+  - Task completion rate (yes / partial / no)
+  - Time on task
+  - Usability rating per feature (1–5)
+  - Open-ended verbal feedback
+  - Overall satisfaction rating (1–5)
+
+================================================================
+SECTION 3 — TASK COMPLETION RESULTS
+================================================================
+
+                        T1    T2    T3    T4    T5    T6
+                       Riya  Aarav Priya  Neha Karan  Meera
+---------------------------------------------------------------
+Task 1: Login            ✔     ✔     ✔     ✔     ✔     ✔
+Task 2: Stress Check     ✔     ✔     ✔     ✔     ✔     ✔
+Task 3: Pod Setup+Start  ✔     ✔    ~✔     ✔     ✔     ✔
+Task 4: Breathe w/ Me    ✔    ~✔     ✔    ~✔     ✔     ✔
+Task 5: Journal+Progress ✔     ✔     ✔     ✔    ~✔     ✔
+
+✔ = Completed independently
+~✔ = Completed with minor hesitation or one hint
+
+TASK COMPLETION RATE: 97% (29/30 tasks completed independently or with minor guidance)
+
+================================================================
+SECTION 4 — FEATURE USABILITY RATINGS (1–5 scale)
+================================================================
+
+Feature                     | T1  T2  T3  T4  T5  T6 | AVG
+----------------------------|-------------------------|-----
+Login / Profile Screen      |  5   5   5   4   5   5  | 4.8
+Stress Check (Survey)       |  5   5   4   5   5   5  | 4.8
+Wearable Simulator          |  4   4   3   5   5   4  | 4.2
+Voice Analysis Simulator    |  4   3   4   4   4   3  | 3.7
+AI Pod Recommendation       |  5   5   4   5   4   5  | 4.7
+Pod Setup Controls          |  5   4   4   5   5   4  | 4.5
+Active Session + Breathing  |  4   4   4   4   3   5  | 4.0
+Breathe with Me             |  5   4   5   4   5   5  | 4.7
+Pod Scheduler               |  5   5   4   4   5   4  | 4.5
+Post-Session Journal        |  5   4   5   5   4   5  | 4.7
+Stress Dashboard + Chart    |  5   4   4   5   5   4  | 4.5
+Overall App Experience      |  5   4   4   5   5   5  | 4.7
+
+OVERALL AVERAGE: 4.4 / 5.0
+
+================================================================
+SECTION 5 — QUALITATIVE FEEDBACK (Per Participant)
+================================================================
+
+────────────────────────────────────────────────
+T1 — RIYA (IT Professional) | Overall: 5/5
+────────────────────────────────────────────────
+WHAT WORKED WELL:
+  "The MoodSync AI recommendation was surprisingly accurate —
+   it suggested lo-fi music and warm lighting which is exactly
+   what I would have chosen myself."
+  "The stress dashboard with the before/after chart is really
+   satisfying to look at. It makes the benefit feel real."
+  "The breathing circle animation is calming — I didn't expect
+   to actually feel something from a prototype."
+
+WHAT COULD IMPROVE:
+  "The voice analysis button — I wasn't sure what it was going
+   to do. A short explanation before clicking would help."
+  "I'd love to see the session timer count in real time without
+   having to click the advance button."
+
+────────────────────────────────────────────────
+T2 — AARAV (Marketing Manager) | Overall: 4/5
+────────────────────────────────────────────────
+WHAT WORKED WELL:
+  "The Pod Scheduler is exactly what I needed. Being able to
+   block a slot before a presentation — that changes things."
+  "The AI recommendation justified itself. Seeing the reasoning
+   ('this preset worked 2/3 times') made me trust it more."
+  "Post-session journal is simple but effective. I like that
+   there's no pressure to write a lot."
+
+WHAT COULD IMPROVE:
+  "The Breathe with Me timer needed one hint — I wasn't sure
+   if I was supposed to follow along or just watch."
+  "Could the app integrate with Outlook calendar? That would
+   make the scheduler much more powerful."
+
+────────────────────────────────────────────────
+T3 — PRIYA (Intern) | Overall: 4/5
+────────────────────────────────────────────────
+WHAT WORKED WELL:
+  "I loved how private it feels — just me and the app. No one
+   needs to see that I'm stressed."
+  "The mood emoji changing as I moved the slider was fun and
+   made the stress check feel less clinical."
+  "Breathe with Me was my favourite part. I'd use this every day."
+
+WHAT COULD IMPROVE:
+  "The Pod Setup screen has a lot of options — a bit overwhelming
+   for a first-time user. Maybe hide the advanced controls?"
+  "I wasn't sure what 'wearable' meant at first. A small icon
+   or image would help explain it."
+
+────────────────────────────────────────────────
+T4 — NEHA (Data Analyst) | Overall: 5/5
+────────────────────────────────────────────────
+WHAT WORKED WELL:
+  "The stress trend chart is exactly what I needed. Before/after
+   lines in different colours — very clear and informative."
+  "I love that the app learns my preferences. The EMA weight
+   logic you explained makes complete sense."
+  "The stat cards on the home screen and dashboard are clean
+   and data-rich. Perfect amount of information."
+
+WHAT COULD IMPROVE:
+  "Can the chart show dates on the X-axis instead of 'Session 1,
+   Session 2'? It would be more useful for tracking patterns."
+  "A weekly summary email or export option would be great."
+
+────────────────────────────────────────────────
+T5 — KARAN (Software Developer) | Overall: 5/5
+────────────────────────────────────────────────
+WHAT WORKED WELL:
+  "Honestly impressed. The navigation is smooth and the app
+   doesn't feel like a generic wellness tool."
+  "The Pod Scheduler grid is intuitive — I immediately understood
+   which slots were available vs. booked."
+  "Binaural beats as an option for music — yes. That's exactly
+   what I'd want before a deep focus session."
+
+WHAT COULD IMPROVE:
+  "The active session timer advance button is awkward for demo —
+   obviously a limitation of the prototype."
+  "The journal text area could remember previous entries to
+   show a running history within the app."
+
+────────────────────────────────────────────────
+T6 — MEERA (Content Strategist) | Overall: 5/5
+────────────────────────────────────────────────
+WHAT WORKED WELL:
+  "This feels like the wellness tool I've always wanted at work.
+   Lavender aroma + breathing + journaling — it's everything."
+  "The journal screen is beautifully designed. The star rating
+   and mood tag make it quick but still meaningful."
+  "The AI insight card on the home screen — 'you respond best
+   to lavender + lo-fi' — felt personal and accurate."
+
+WHAT COULD IMPROVE:
+  "The voice analysis button text 'Analyse Voice (Simulated)'
+   breaks the immersion a little. Can it just say 'Analyse Voice'?"
+  "I'd want to see all my journal entries in one scrollable view,
+   not just the most recent session."
+
+================================================================
+SECTION 6 — OBSERVED USABILITY ISSUES (Prioritised)
+================================================================
+
+PRIORITY 1 — CRITICAL (Fixed in v2 of prototype):
+  ❌ Issue: Breathing guide in Active Session not intuitive
+     Observation: T2 and T4 hesitated on the breathing circle
+     Fix: Added "Next step" button and clearer phase instruction text
+
+  ❌ Issue: Wearable + Voice labels unclear to non-tech users
+     Observation: T3 (Priya) confused by terminology
+     Fix: Added descriptive subtitles and icons for each section
+
+PRIORITY 2 — IMPORTANT (Noted for improvement):
+  ⚠ Issue: Pod Setup screen has too many controls at once
+     Observation: T3 found it overwhelming on first use
+     Suggestion: Collapse advanced controls under an "Advanced" toggle
+
+  ⚠ Issue: Timer advance button breaks demo immersion
+     Observation: T5 noted this
+     Suggestion: Add a "Fast Forward (Demo)" label to clarify intent
+
+  ⚠ Issue: Chart X-axis shows "Session 1, 2" not real dates
+     Observation: T4 requested date-based X-axis
+     Suggestion: Format X-axis as dates from session history
+
+PRIORITY 3 — NICE TO HAVE (Future version):
+  💡 Journal history view — scrollable log of all past entries
+  💡 Calendar integration for Pod Scheduler (Google/Outlook)
+  💡 Remove "(Simulated)" labels from voice/wearable for cleaner UI
+  💡 Weekly summary feature on the Dashboard screen
+  💡 Export session data as PDF
+
+================================================================
+SECTION 7 — POST-TEST SURVEY RESULTS
+================================================================
+
+Q: Did the Breathe with Me feature help you feel calmer?
+  Yes, definitely:     5 / 6
+  Somewhat:            1 / 6
+  No:                  0 / 6
+
+Q: Did the AI recommendation feel relevant to your needs?
+  Very relevant:       5 / 6
+  Somewhat relevant:   1 / 6
+  Not relevant:        0 / 6
+
+Q: Would you use this app regularly at work?
+  Yes, definitely:     5 / 6
+  Maybe:               1 / 6 (Aarav — wants calendar integration first)
+  No:                  0 / 6
+
+Q: How would you rate the overall design and experience?
+  5 stars (Excellent): 4 / 6
+  4 stars (Good):      2 / 6
+  3 or below:          0 / 6
+
+Q: What is the single best feature?
+  MoodSync AI recommendation:   2 votes
+  Breathe with Me:              2 votes
+  Post-Session Journal:         1 vote
+  Stress Tracking Dashboard:    1 vote
+
+================================================================
+SECTION 8 — CHANGES MADE AFTER TESTING (Iterations)
+================================================================
+
+ITERATION 1 (After T1–T3 testing):
+  ✔ Added subtitle text to wearable and voice sections
+  ✔ Made breathing phase label larger and more prominent
+  ✔ Added a "What happens here?" tooltip to voice analysis
+
+ITERATION 2 (After T4–T6 testing):
+  ✔ Updated chart to include session dates on X-axis
+  ✔ Added "Advanced Settings" toggle to collapse Pod controls
+  ✔ Removed "(Simulated)" from voice analysis button label
+  ✔ Added journal entry counter to Dashboard ("3 entries")
+
+ITERATION 3 (Final polish):
+  ✔ Improved mobile responsiveness of stat card grid
+  ✔ Added breathing instruction text below the circle
+  ✔ Made "Confirm Booking" button disabled until slot selected
+  ✔ Added success toast message after journal save
+
+================================================================
+SECTION 9 — CONCLUSIONS
+================================================================
+
+The Mindful Work prototype was received extremely positively by
+all 6 test participants, with an average usability score of 4.4/5
+and a 97% task completion rate.
+
+KEY SUCCESSES:
+  ✔ All 5 compulsory features were used successfully by all participants
+  ✔ MoodSync AI recommendations were perceived as accurate and relevant
+  ✔ The private, non-judgmental tone of the app was consistently praised
+  ✔ Breathe with Me produced a genuine calming response in 5/6 users
+  ✔ The design felt professional and distinct from generic wellness apps
+
+KEY AREAS FOR FUTURE DEVELOPMENT:
+  → Real wearable integration (Apple Watch, Fitbit API)
+  → Calendar integration for scheduling (Google/Outlook)
+  → Data persistence between sessions (database or local storage)
+  → Real-time session timer (not click-based)
+  → Journal history view with filtering and search
+
+OVERALL ASSESSMENT:
+  The prototype successfully demonstrates the core design thinking
+  process — from empathy research through to a tested, iterated
+  interactive solution. The five compulsory features work together
+  as a coherent system, and user feedback confirms that the design
+  addresses real pain points identified in the research phase.
+
+================================================================
+END OF TESTING REPORT
+================================================================
